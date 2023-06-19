@@ -1,0 +1,15 @@
+C:\Users\ASUS\Documents\AMIKOM\SEMESTER 2\PEMROGRAMAN C#\pert10\polynter\polynter\bin\Debug\net6.0\polynter.exe
+C:\Users\ASUS\Documents\AMIKOM\SEMESTER 2\PEMROGRAMAN C#\pert10\polynter\polynter\bin\Debug\net6.0\polynter.deps.json
+C:\Users\ASUS\Documents\AMIKOM\SEMESTER 2\PEMROGRAMAN C#\pert10\polynter\polynter\bin\Debug\net6.0\polynter.runtimeconfig.json
+C:\Users\ASUS\Documents\AMIKOM\SEMESTER 2\PEMROGRAMAN C#\pert10\polynter\polynter\bin\Debug\net6.0\polynter.dll
+C:\Users\ASUS\Documents\AMIKOM\SEMESTER 2\PEMROGRAMAN C#\pert10\polynter\polynter\bin\Debug\net6.0\polynter.pdb
+C:\Users\ASUS\Documents\AMIKOM\SEMESTER 2\PEMROGRAMAN C#\pert10\polynter\polynter\obj\Debug\net6.0\polynter.csproj.AssemblyReference.cache
+C:\Users\ASUS\Documents\AMIKOM\SEMESTER 2\PEMROGRAMAN C#\pert10\polynter\polynter\obj\Debug\net6.0\polynter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Documents\AMIKOM\SEMESTER 2\PEMROGRAMAN C#\pert10\polynter\polynter\obj\Debug\net6.0\polynter.AssemblyInfoInputs.cache
+C:\Users\ASUS\Documents\AMIKOM\SEMESTER 2\PEMROGRAMAN C#\pert10\polynter\polynter\obj\Debug\net6.0\polynter.AssemblyInfo.cs
+C:\Users\ASUS\Documents\AMIKOM\SEMESTER 2\PEMROGRAMAN C#\pert10\polynter\polynter\obj\Debug\net6.0\polynter.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Documents\AMIKOM\SEMESTER 2\PEMROGRAMAN C#\pert10\polynter\polynter\obj\Debug\net6.0\polynter.dll
+C:\Users\ASUS\Documents\AMIKOM\SEMESTER 2\PEMROGRAMAN C#\pert10\polynter\polynter\obj\Debug\net6.0\refint\polynter.dll
+C:\Users\ASUS\Documents\AMIKOM\SEMESTER 2\PEMROGRAMAN C#\pert10\polynter\polynter\obj\Debug\net6.0\polynter.pdb
+C:\Users\ASUS\Documents\AMIKOM\SEMESTER 2\PEMROGRAMAN C#\pert10\polynter\polynter\obj\Debug\net6.0\polynter.genruntimeconfig.cache
+C:\Users\ASUS\Documents\AMIKOM\SEMESTER 2\PEMROGRAMAN C#\pert10\polynter\polynter\obj\Debug\net6.0\ref\polynter.dll
